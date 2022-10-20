@@ -5656,15 +5656,15 @@ button.close {
 }
 
 body {
-    background-image: -webkit-linear-gradient(top, #00ff15, #98fca1);
-    background-image: -o-linear-gradient(top, #00ff15 0, #98fca1 100%);
-    background-image: linear-gradient(180deg, #00ff15 0, #98fca1);
+    background-image: -webkit-linear-gradient(top, #000957, #256D85);
+    background-image: -o-linear-gradient(top, #000957 0, #256D85 100%);
+    background-image: linear-gradient(180deg, #000957 0, #256D85);
     background-repeat: repeat-x;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#FFFF0060", endColorstr="#FFFF6975", GradientType=0)
 }
 
 body.white {
-    background-color: #fff;
+    background-color: #EFFFFD;
     background-image: none
 }
 
@@ -5676,7 +5676,7 @@ body.white {
 .white-text-container h4,
 .white-text-container h5,
 .white-text-container p {
-    color: #fff
+    color: #EFFFFD
 }
 
 .content-wrapper {
@@ -5716,7 +5716,7 @@ body.white {
 
 .card {
     border-radius: .25rem;
-    background-color: #fff;
+    background-color: #EFFFFD;
     border: 1px solid rgba(0, 0, 0, .125);
     margin-bottom: 3rem
 }
